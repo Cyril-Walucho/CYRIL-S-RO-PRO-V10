@@ -1,0 +1,8 @@
+{
+  "name": "Cyril\u0027s RO PRO V10",
+  "description": "Android-optimized broadcast rundown and split-screen stage countdown timer with live Google Sheets, CSV sync, and multi-device real-time control, optimised for laptop, phone, tablet and foldables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,11 @@
+Segment #,Title,Category,Color Stripe,Presenter,Duration,Notes,Audio Note,Status
+01,Pre-Show Atmosphere & Countdown,Intro / Opener,cyan,Control Room / AV Tech,03:00,Roll animated countdown & videowall loop,Background theme music,pending
+02,Show Intro & Cold Open,Intro / Opener,cyan,Main Host,02:00,Camera 1 direct to lens,Host mic live,pending
+03,Headline Graphic Overview,Graphics Item,fuchsia,Graphics Op,01:00,Full-screen headline chart overlay,Host voiceover,pending
+04,Headline Rundown & Discussion,Live Content,emerald,Host & Co-Host,04:00,Split screen 2-box feed,Host & co-host mics,pending
+05,Feature Keynote: Live Demo,Video / VT Roll,blue,Marcus (Product Lead),10:00,Switch main display feed to laptop share,Laptop audio + headset mic,pending
+06,Commercial Break & Sponsor Spot,Commercial / Break,amber,VT Roll,01:00,Roll pre-recorded sponsor commercial,Commercial video audio,pending
+07,Guest Interview & Deep Dive,Interview / Guest,purple,Dr. Elena Vance & Host,07:00,Spotlights on center chairs,Guest & host mics,pending
+08,Featured Sponsor Read,Sponsor / Promo,orange,Main Host,01:30,Display sponsor banner graphic,Host mic + soft bed,pending
+09,Live Music Interlude,Music / SFX,indigo,Guest Band,04:00,Center stage warm lighting,Band & vocal mics,pending
+10,Show Outro & Credits Roll,Outro / Wrap-Up,rose,Main Host,02:00,Roll credits scroll animation,Outro music fade out,pending

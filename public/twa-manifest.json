@@ -1,0 +1,16 @@
+{
+  "packageId": "com.cyril.rundown.live",
+  "host": "localhost",
+  "name": "Cyril's RO",
+  "launcherName": "Cyril's RO",
+  "themeColor": "#090D16",
+  "navigationColor": "#090D16",
+  "backgroundColor": "#090D16",
+  "enableNotifications": false,
+  "startUrl": "/",
+  "iconUrl": "/pwa-512x512.png",
+  "maskableIconUrl": "/pwa-maskable-512x512.png",
+  "appVersion": "1.0.0",
+  "orientation": "any",
+  "display": "standalone"
+}
